@@ -1,31 +1,59 @@
-{
-  "posts": [
+{ 
+  "dosen" : [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "1",
+      "name": "Anak Agung Gde Ekayana, S.Pd., M.Pd.",
+      "nidn": "0825038901"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "2",
+      "name": "Ayu Manik Dirgayusari, S.Kom., M.MT.",
+      "nidn": "0811058501"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": "3",
+      "name": "I Dewa Putu Gede Wiyata Putra, S.Kom., M.M.",
+      "nidn": "0804018605"
+    },
+    {
+      "id": "4",
+      "name": "Christina Purnama Yanti, S.Kom., M.Kom.",
+      "nidn": "0801109301"
+    },
+    {
+      "id": "5",
+      "name": "Ir. Komang Kurniawan Widiartha, S.Kom., M.Cs.",
+      "nidn": "0826048702"
+    },
+    {
+      "id": "6",
+      "name": "Ir. Wayan Gede Suka Parwita, S.Kom., M.Cs.",
+      "nidn": "0822088901 "
+    },
+    {
+      "id": "7",
+      "name": "Ketut Jaya Atmaja, S.Kom., M.Kom.",
+      "nidn": "0826119101"
+    },
+    {
+      "id": "8",
+      "name": "Made Suci Ariantini, S.Pd., M.Kom.",
+      "nidn": "0816038901"
+    },
+    {
+      "id": "9",
+      "name": "Ni Made Mila Rosa Desmayani, S.E., M.Si.",
+      "nidn": "0831129301"
+    },
+    {
+      "id": "10",
+      "name": "Ida Bagus Ary Indra Iswara, S.Kom., M.Kom.",
+      "nidn": "0824048801"
+    },
+    {
+      "id": "11",
+      "name": "I Nyoman Agus Suarya Putra, S.Sn., M.Sn.",
+      "nidn": "0811128101"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
