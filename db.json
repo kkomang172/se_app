@@ -55,5 +55,26 @@
       "name": "I Nyoman Agus Suarya Putra, S.Sn., M.Sn.",
       "nidn": "0811128101"
     }
+  ],
+  "2022": [
+      {
+      "mhsbaru": [ 
+        {
+          "name" : "TI-MDI",
+          "jumlah" : 320
+        },
+        {
+          "name" : "TI-KAB",
+          "jumlah" : 211
+        },
+        {
+          "name" : "TI-DKV",
+          "jumlah" : 220
+        },
+        {
+          "name" : "SK",
+          "jumlah" : 270
+        }
+    }
   ]
 }
