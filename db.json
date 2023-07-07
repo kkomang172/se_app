@@ -56,10 +56,8 @@
       "nidn": "0811128101"
     }
   ],
-  "2022": [
+  "mhsbaru": [
       {
-      "mhsbaru": [ 
-        {
           "id": "1",
           "name" : "TI-MDI",
           "jumlah" : 320
@@ -79,32 +77,22 @@
           "name" : "SK",
           "jumlah" : 270
         }
-      ]
-    },
-    {
+    ],
       "mhsaktif": {
         "aktif" : 3421,
         "cuti" : 120,
         "do" : 5
-      }
-    },
-    {
+      },
       "krsmhs": {
         "lunas" : 3310,
         "menyicil" : 111
-      }
     },
-    {
       "ipkmhs": {
         "genap" : 3.61,
         "ganjil" : 3.45
-      }
     },
-    {
       "kelulusan": {
         "genap" : 398,
         "ganjil" : 379
-      }
     }
-  ]
 }
