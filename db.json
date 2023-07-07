@@ -78,21 +78,15 @@
           "jumlah" : 270
         }
     ],
-      "mhsaktif": {
-        "aktif" : 3421,
-        "cuti" : 120,
-        "do" : 5
-      },
-      "krsmhs": {
+    "mhsaktif": {
+      "aktif" : 3421,
+      "cuti" : 120,
+      "do" : 5,
+      "kelulusangenap" : 398,
+        "kelulusanganjil" : 379,
+        "ipkgenap" : 3.61,
+        "ipkganjil" : 3.45,
         "lunas" : 3310,
-        "menyicil" : 111
-    },
-      "ipkmhs": {
-        "genap" : 3.61,
-        "ganjil" : 3.45
-    },
-      "kelulusan": {
-        "genap" : 398,
-        "ganjil" : 379
-    }
+        "menyicil" : 111,
+      },
 }
