@@ -60,18 +60,22 @@
       {
       "mhsbaru": [ 
         {
+          "id": "1",
           "name" : "TI-MDI",
           "jumlah" : 320
         },
         {
+          "id": "2",
           "name" : "TI-KAB",
           "jumlah" : 211
         },
         {
+          "id": "3",
           "name" : "TI-DKV",
           "jumlah" : 220
         },
         {
+          "id": "4",
           "name" : "SK",
           "jumlah" : 270
         }
