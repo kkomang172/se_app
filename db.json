@@ -55,5 +55,33 @@
       "name": "I Nyoman Agus Suarya Putra, S.Sn., M.Sn.",
       "nidn": "0811128101"
     }
+  ],
+  
+  "2022" : [
+  {
+    "mahasiswabaru": {
+      "mhsbaru": {
+        "name": "TI-MDI",
+        "jumlah": 320,
+      },
+      "mhsbaru": {
+        "name": "TI-KAB",
+        "jumlah": 211,
+      },
+      "mhsbaru": {
+        "name": "TI-DKV",
+        "jumlah": 220,
+      },
+      "mhsbaru": {
+        "name": "SK",
+        "jumlah": 270,
+      },
+    }
+  },
+    "mahasiswa": {
+      "mhsaktif" : 3421,
+      "cuti" : 120,
+      "do" : 5,
+    }
   ]
 }
