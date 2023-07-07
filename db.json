@@ -75,13 +75,13 @@
       "mhsbaru": {
         "name": "SK",
         "jumlah": 270,
-      },
-    }
-  },
+      }
+    },
     "mahasiswa": {
       "mhsaktif" : 3421,
       "cuti" : 120,
       "do" : 5,
     }
+  }
   ]
 }
