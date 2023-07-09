@@ -55,40 +55,5 @@
       "name": "I Nyoman Agus Suarya Putra, S.Sn., M.Sn.",
       "nidn": "0811128101"
     }
-  ],
-  "mhsbaru": [
-      {
-          "id": "1",
-          "name" : "TI-MDI",
-          "jumlah" : 320
-        },
-        {
-          "id": "2",
-          "name" : "TI-KAB",
-          "jumlah" : 211
-        },
-        {
-          "id": "3",
-          "name" : "TI-DKV",
-          "jumlah" : 220
-        },
-        {
-          "id": "4",
-          "name" : "SK",
-          "jumlah" : 270
-        }
-    ],
-    "mhsaktif": [
-      {
-      "aktif" : 3421,
-      "cuti" : 120,
-      "lainnya" : 5,
-      "kelulusangenap" : 398,
-      "kelulusanganjil" : 379,
-      "ipkgenap" : 3.61,
-      "ipkganjil" : 3.45,
-      "lunas" : 3310,
-      "menyicil" : 111
-      }
-    ]
+  ]
 }
